@@ -34,7 +34,7 @@ def get_prediction():
     baby_data_cleaned = get_cleaned_data(baby_data_form)
     baby_df = pd.DataFrame(baby_data_cleaned)
 
-    model_path = os.path.join(os.path.dirname(__file__), 'model', 'model.pkl')
+    model_path = os.path.join(os.path.dirname(__file__), 'model.pkl')
     with open(model_path, 'rb') as obj:
         model = pickle.load(obj)
 
