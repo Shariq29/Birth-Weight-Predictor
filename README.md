@@ -5,6 +5,12 @@ This project demonstrates end-to-end data preprocessing, feature engineering, mo
 
 ---
 
+🚀 Live Demo
+🔗 App: https://birth-weight-predictor-z6o2.onrender.com/
+🔗 GitHub Repo: https://github.com/Shariq29/Birth-Weight-Predictor.git
+
+---
+
 ## 📊 Project Overview
 
 Birth weight is a key indicator of newborn health.  
@@ -41,6 +47,3 @@ Different regression algorithms are applied and compared to identify the most ac
 ✅ **Random Forest** performed the best with the highest accuracy.
 
 ---
-
-## 📂 Project Structure
-
