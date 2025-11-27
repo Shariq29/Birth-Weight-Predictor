@@ -5,11 +5,10 @@ This project demonstrates end-to-end data preprocessing, feature engineering, mo
 
 ---
 
-🚀 Live Demo
+## 🚀 Live Demo
 
-🔗 App: https://birth-weight-predictor-z6o2.onrender.com/
-
-🔗 GitHub Repo: https://github.com/Shariq29/Birth-Weight-Predictor.git
+🔗 **App:** https://birth-weight-predictor-z6o2.onrender.com/
+🔗 **GitHub Repo:** https://github.com/Shariq29/Birth-Weight-Predictor.git
 
 ---
 
